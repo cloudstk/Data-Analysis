@@ -1,6 +1,6 @@
-#Coronavirus disease 2019 (COVID-19) Data Analysis using Python.
+# Coronavirus disease 2019 (COVID-19) Data Analysis using Python.
 
-##The list of used data sources
+## The list of used data sources
 Source : Johns Hopkins University (JHU)
 Data from the repo: https://github.com/CSSEGISandData/COVID-19
 
